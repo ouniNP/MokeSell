@@ -1,0 +1,16 @@
+INSERT INTO Staff VALUES
+(1,'Maximillian Verner',89012345,'2024-01-01',1),
+(2,'Seraphina Moreau',89123456,'2023-12-15',2),
+(3,'Ignatius Bellamy',89234567,'2023-11-20',3),
+(4,'Genevieve Harlow',89345678,'2023-10-05',4),
+(5,'Lysander Thorne',89456789,'2023-09-10',5),
+(6,'Ophelia Winslow',90567890,'2023-08-25',1),
+(7,'Percival Blackwood',91678901,'2023-07-30',2),
+(8,'Evangeline Sterling',92789012,'2023-06-15',3),
+(9,'Cassius Beaumont',93890123,'2023-05-20',4),
+(10,'Theodora Whitmore',94901234,'2023-04-10',5),
+(11,'Aurora Langdon',95012345,'2023-03-25',6),
+(12,'Sebastian Voss',95123456,'2023-02-15',7),
+(13,'Amara Lark',95234567,'2023-01-30',8),
+(14,'Thaddeus Fairchild',95345678,'2022-12-05',9),
+(15,'Isolde Hawthorne',95456789,'2022-11-10',10);
